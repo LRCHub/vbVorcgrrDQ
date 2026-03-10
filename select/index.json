@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Chasing That Feeling",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-03-10T06:03:14.592000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chasing That Feeling",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/01_Chasing_That_Feeling_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chasing That Feeling (English Ver. – Digital Only)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/02_Chasing_That_Feeling_(English_Ver._–_Digital_Only)_TOMORROW_X_TOGETHER.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chasing That Feeling (English Ver.) (Digital Only)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/03_Chasing_That_Feeling_(English_Ver.)_(Digital_Only)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chasing that Feeling (English ver.)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/04_Chasing_that_Feeling_(English_ver.)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chasing That Feeling",
+      "artist": "TOMORROW X TOGETHER; Retro",
+      "has_synced": true,
+      "path": "select/05_Chasing_That_Feeling_TOMORROW_X_TOGETHER;_Retro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chasing That Feeling",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/06_Chasing_That_Feeling_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chasing That Feeling",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/07_Chasing_That_Feeling_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chasing That Feeling (English Ver.) (Digital Only)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/08_Chasing_That_Feeling_(English_Ver.)_(Digital_Only)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chasing that Feeling (English ver․)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/09_Chasing_that_Feeling_(English_ver.)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chasing That Feeling",
+      "artist": "TOMORROW",
+      "has_synced": true,
+      "path": "select/10_Chasing_That_Feeling_TOMORROW.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chasing That Feeling",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Chasing_That_Feeling_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
